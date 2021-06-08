@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![crudReactJS](https://user-images.githubusercontent.com/68882204/121098313-3233cf00-c7bb-11eb-84f1-a37eb1f92135.jpg)
 
+![crudReactJS2](https://user-images.githubusercontent.com/68882204/121223500-36a8c800-c84d-11eb-8638-d6caf2495390.jpg)
